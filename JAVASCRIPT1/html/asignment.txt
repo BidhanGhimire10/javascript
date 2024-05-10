@@ -1,0 +1,37 @@
+explain client server arch in brief
+what is web server softwware ? discuss its role on the internet
+define http ? explain overall function of http with example .
+what is web client ? explain its role on internet.
+how http is diff from ftp ? discuss 3 teir technology with example
+what is client server technlogy . discuss internet as a client server technology
+
+
+asignment 2
+
+how external style shet cna be inserted in a html document ? illustrate with example
+what is structure of html file explain with example
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p></p>
+</body>
+</html>
+
+define css >. how can you use internal css ? expalain
+
+what is html fourm diff between get and post method 
+
+
+
+
+
+
+
+
+
+
